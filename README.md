@@ -26,10 +26,10 @@
 `HTML` `CSS` `React.js` `Tailwind CSS`
 
 **Backend Skills:**  
-`Node.js` `Express.js` `MongoDB` `Firebase`
+`Node.js` `Express.js` `MongoDB` 
 
 **Others:**  
-`Git` `GitHub` `VS Code` `Postman` `Figma`
+`Git` `GitHub` `VS Code` `Postman` 
 
 ---
 
@@ -70,4 +70,4 @@
 ---
 
 > 🌸 *“I write code to solve problems, not just to impress people.”*
-> update profile readme
+> 
