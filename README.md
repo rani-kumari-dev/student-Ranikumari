@@ -7,14 +7,17 @@
 
 ---
 
-## 👩 About Me
+🎓 BCA Graduate
 
-🌟 Final-year BCA student with a passion for technology  
-🚀 Love solving real-world problems through code  
-📱 Enthusiast of full-stack development, mobile apps, and AI tools  
-🧠 Always curious to learn something new and build cool projects  
-🎯 Goal: Become a product-minded developer and impact millions through tech
+💻 Passionate frontend developer
 
+🎨 Love building clean, responsive UIs
+
+🚀 Skilled in HTML, CSS, JavaScript, React, Tailwind
+
+📱 Interested in full-stack, mobile apps & AI tools
+
+🧠 Always exploring new tech & design trends
 ---
 
 ## 🧰 Tech Stack & Tools
