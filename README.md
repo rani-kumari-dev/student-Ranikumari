@@ -15,9 +15,9 @@
 
 🚀 Skilled in HTML, CSS, JavaScript, React, Tailwind
 
-📱 Interested in full-stack, mobile apps & AI tools
-
 🧠 Always exploring new tech & design trends
+
+
 ---
 
 ## 🧰 Tech Stack & Tools
