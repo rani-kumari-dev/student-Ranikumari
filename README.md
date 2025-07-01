@@ -63,7 +63,7 @@
 ## 🌐 Let’s Connect
 
 <p align="left">
-  <a href="www.linkedin.com/in/rani-kumari-69882b2b9"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/rani-kumari-dev"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rk2859669@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
