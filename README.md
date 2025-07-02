@@ -44,24 +44,6 @@
 | [Dashboard of HealthCare](https://github.com/student-Ranikumari/Dashboard-of-HealthCare) | Health analytics dashboard for patient and treatment data | HTML, CSS, JS |
 | [My Portfolio](https://github.com/student-Ranikumari/My-Porfolio) | Personal portfolio to showcase skills and projects | HTML, Bootstrap, JS |
 
----
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=student-Ranikumari&theme=react&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=student-Ranikumari&theme=react" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=student-Ranikumari&theme=onestar&no-bg=true&margin-w=15" />
-</p>
-
----
 
 ## 🌐 Let’s Connect
 
